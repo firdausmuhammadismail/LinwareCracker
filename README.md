@@ -25,5 +25,5 @@ gcc main.c
 chmod +x a.out
 ./a.out
 ```
-***Don't blame anyone if Linux is broken and dont cry because it was warned before:) ***
+***Don't blame anyone if Linux is broken and dont cry because it was warned before:)***
 
