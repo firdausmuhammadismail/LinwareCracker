@@ -25,5 +25,13 @@ gcc main.c
 chmod +x a.out
 ./a.out
 ```
+# In the header file daftar_function.h code will not work if you put it in the current directory, please move:
+```
+sudo cp -r daftar_function.h /usr/include
+```
+# Or
+```
+sudo mv daftar_function.h /usr/include
+```
 ***Don't blame anyone if Linux is broken and dont cry because it was warned before:)***
 
